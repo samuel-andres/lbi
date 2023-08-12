@@ -1,7 +1,8 @@
 # Redirect http to https on Elastic Load Balancer
 
 **Source**: [AWS EB Samples - http2https](https://github.com/awsdocs/elastic-beanstalk-samples/blob/main/configuration-files/aws-provided/resource-configuration/alb-http-to-https-redirection.config)
-**Pre-requisites**: ELB with to listeners (80 and 443)
+
+**Pre-requisites**: ELB with two listeners (80 and 443)
 
 Add a `.config` file to .ebextensions folder with the following content:
 
