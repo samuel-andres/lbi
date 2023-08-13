@@ -1,3 +1,2 @@
-*.md linguist-language=Python
-*.md linguist-language=bash
+*.md linguist-language=md
 
