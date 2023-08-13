@@ -52,6 +52,16 @@ services:
       - app
       - redis
 
+  # just for production:
+  sv:
+    image: builtimage # from nginx
+    expose:
+      - 80
+    volumes:
+      - static-data:/app/staticfiles
+    depends_on:
+      - app
+
 volumes:
   db-data:
   pgadmin-data:
