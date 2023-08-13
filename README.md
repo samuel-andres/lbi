@@ -10,6 +10,7 @@ Little bits of information.
 - **dj**: Django
 - **ssh**: Secure Shell
 - **expo**: Expo
+- **ng**: Angular
 
 ## Index
 
@@ -51,3 +52,8 @@ Little bits of information.
 ### Expo
 - [Dockerized environment for an expo project](expo_compose.md)
 - [Expo dotenv configuration](expo_dotenv.md)
+
+
+### Angular
+- [Dockerized environment for an Angular environment](ng_compose.md)
+- [Angular devcontainer](ng_devcontainer.md)
