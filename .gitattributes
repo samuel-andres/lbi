@@ -1,1 +1,6 @@
 *.md linguist-language=Python
+*.md linguist-language=Bash
+*.md linguist-language=PowerShell
+*.md linguist-language=YAML
+*.md linguist-language=TOML
+
