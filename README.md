@@ -1,4 +1,4 @@
-# fyi
+# lbi
 
 Little bits of information.
 
