@@ -1,4 +1,4 @@
-# Dockerized environment for an Angular environment
+# Dockerized environment for an Angular project
 
 `Dockerfile`:
 
