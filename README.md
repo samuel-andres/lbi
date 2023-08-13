@@ -42,3 +42,7 @@ Little bits of information.
 - [Setup for django testing environment](dj_test_setup.md)
 - [GIS mixin widget for django unfold](dj_unfold_geo_admin_mixin.md)
 
+### Secure Shell
+- [Set up ssh bastion host](ssh_bastion.md)
+- [Set up ssh for multiple bitbucket accounts](ssh_multi_bb.md)
+
