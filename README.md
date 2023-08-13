@@ -42,6 +42,7 @@ Little bits of information.
 - [Start a django project with predefined structure](dj_start_project.md)
 - [Setup for django testing environment](dj_test_setup.md)
 - [GIS mixin widget for django unfold](dj_unfold_geo_admin_mixin.md)
+- [Django finite state machine](dj_fsm.md)
 
 ### Secure Shell
 - [Set up ssh bastion host](ssh_bastion.md)
