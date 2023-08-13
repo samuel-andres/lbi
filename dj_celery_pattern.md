@@ -37,3 +37,22 @@ class MyModel(models.Model):
         {model_name}_{method_name}_task.delay(self.pk)
 
 ```
+
+`somewhere.py`:
+
+```python
+"""Somewhere in the source code..."""
+
+from django.db import transaction
+
+with transaction.atomic(): # or using transaction.atomic decorator
+    ...
+
+    transaction.on_commit(
+        lambda: [
+            instance.async_{method_name}(),
+            ..., # another async calls
+        ]
+    )
+
+```
