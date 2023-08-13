@@ -9,6 +9,7 @@ Little bits of information.
 - **aws**: Amazon Web Services
 - **dj**: Django
 - **ssh**: Secure Shell
+- **expo**: Expo
 
 ## Index
 
@@ -45,4 +46,7 @@ Little bits of information.
 ### Secure Shell
 - [Set up ssh bastion host](ssh_bastion.md)
 - [Set up ssh for multiple bitbucket accounts](ssh_multi_bb.md)
+
+### Expo
+- [Dockerized environment for an expo project](expo_compose.md)
 
