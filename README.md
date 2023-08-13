@@ -12,6 +12,7 @@ Little bits of information.
 - **expo**: Expo
 - **ng**: Angular
 - **wsl**: Windows Subsystem for Linux
+- **zsh**: Z Shell
 
 ## Index
 
@@ -61,3 +62,6 @@ Little bits of information.
 
 ### Windows Subsystem for Linux
 - [WSL Port Forwarding for exposing servers on LAN](wsl_forwarding.md)
+
+### Z Shell
+- [Custom ZSH prompt](zsh_prompt.md)
