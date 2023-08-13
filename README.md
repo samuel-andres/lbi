@@ -11,6 +11,7 @@ Little bits of information.
 - **ssh**: Secure Shell
 - **expo**: Expo
 - **ng**: Angular
+- **wsl**: Windows Subsystem for Linux
 
 ## Index
 
@@ -57,3 +58,6 @@ Little bits of information.
 ### Angular
 - [Dockerized environment for an Angular project](ng_compose.md)
 - [Angular devcontainer](ng_devcontainer.md)
+
+### Windows Subsystem for Linux
+- [WSL Port Forwarding for exposing servers on LAN](wsl_forwarding.md)
