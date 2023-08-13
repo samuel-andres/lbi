@@ -13,6 +13,8 @@ Little bits of information.
 - **ng**: Angular
 - **wsl**: Windows Subsystem for Linux
 - **zsh**: Z Shell
+- **psh**: PowerShell
+- **nsh**: Network Shell
 
 ## Index
 
@@ -65,3 +67,9 @@ Little bits of information.
 
 ### Z Shell
 - [Custom ZSH prompt](zsh_prompt.md)
+
+### PowerShell
+- [Managing firewall rules on Windows through PowerShell](psh_firewall_rules.md)
+
+### Network Shell
+- [Managing port proxies on Windows through Network Shell](nsh_portproxy.md)

@@ -1,4 +1,4 @@
-# Managing port proxies on Windows through netsh
+# Managing port proxies on Windows through Network Shell
 
 ## Add proxy:
 ```powershell
