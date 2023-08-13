@@ -1,4 +1,2 @@
 *.md linguist-language=Shell
-*.md linguist-language=PowerShell
-*.md linguist-language=YAML
-*.md linguist-language=TOML
+*.md linguist-language=Python
