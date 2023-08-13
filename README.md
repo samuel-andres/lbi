@@ -55,5 +55,5 @@ Little bits of information.
 
 
 ### Angular
-- [Dockerized environment for an Angular environment](ng_compose.md)
+- [Dockerized environment for an Angular project](ng_compose.md)
 - [Angular devcontainer](ng_devcontainer.md)
