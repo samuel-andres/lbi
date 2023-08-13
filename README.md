@@ -49,4 +49,4 @@ Little bits of information.
 
 ### Expo
 - [Dockerized environment for an expo project](expo_compose.md)
-
+- [Expo dotenv configuration](expo_dotenv.md)
