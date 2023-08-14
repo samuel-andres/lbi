@@ -16,6 +16,7 @@ Little bits of information.
 - **psh**: PowerShell
 - **nsh**: Network Shell
 - **dns**: Domain Name System
+- **pm**: NGINX Proxy Manager
 
 ## Index
 
@@ -77,3 +78,6 @@ Little bits of information.
 
 ### Domain Name System
 - [Setup dynamic dns server for duckdns](dns_duckdns_dynamic_dns.md)
+
+### NGINX Proxy Manager
+- [NGINX Proxy Manager Setup](pm_setup.md)
