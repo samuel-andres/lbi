@@ -15,6 +15,7 @@ Little bits of information.
 - **zsh**: Z Shell
 - **psh**: PowerShell
 - **nsh**: Network Shell
+- **dns**: Domain Name System
 
 ## Index
 
@@ -73,3 +74,6 @@ Little bits of information.
 
 ### Network Shell
 - [Managing port proxies on Windows through Network Shell](nsh_portproxy.md)
+
+### Domain Name System
+- [Setup dynamic dns server for duckdns](dns_duckdns_dynamic_dns.md)
