@@ -17,6 +17,7 @@ Little bits of information.
 - **nsh**: Network Shell
 - **dns**: Domain Name System
 - **pm**: NGINX Proxy Manager
+- **adb**: Android Debug Bridge
 
 ## Index
 
@@ -81,3 +82,6 @@ Little bits of information.
 
 ### NGINX Proxy Manager
 - [NGINX Proxy Manager Setup](pm_setup.md)
+
+### Android Debug Bridge
+- [ADB Wireless Connection](adb_wireless.md)
