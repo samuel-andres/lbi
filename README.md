@@ -67,6 +67,7 @@ Little bits of information.
 
 ### Windows Subsystem for Linux
 - [WSL Port Forwarding for exposing servers on LAN](wsl_forwarding.md)
+- [Free Up WSL2 space](wsl_cleanup.md)
 
 ### Z Shell
 - [Custom ZSH prompt](zsh_prompt.md)
