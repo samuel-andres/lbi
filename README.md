@@ -16,7 +16,7 @@ Little bits of information.
 - **psh**: PowerShell
 - **nsh**: Network Shell
 - **dns**: Domain Name System
-- **pm**: NGINX Proxy Manager
+- **npm**: NGINX Proxy Manager
 - **adb**: Android Debug Bridge
 
 ## Index
@@ -82,7 +82,8 @@ Little bits of information.
 - [Setup dynamic dns server for duckdns](dns_duckdns_dynamic_dns.md)
 
 ### NGINX Proxy Manager
-- [NGINX Proxy Manager Setup](pm_setup.md)
+- [NGINX Proxy Manager Setup](npm_setup.md)
+- [NGINX Proxy Manager Reset Password](npm_reset_password.md)
 
 ### Android Debug Bridge
 - [ADB Wireless Connection](adb_wireless.md)
