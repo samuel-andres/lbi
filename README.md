@@ -18,6 +18,7 @@ Little bits of information.
 - **dns**: Domain Name System
 - **npm**: NGINX Proxy Manager
 - **adb**: Android Debug Bridge
+- **linux**: Linux
 
 ## Index
 
@@ -87,3 +88,8 @@ Little bits of information.
 
 ### Android Debug Bridge
 - [ADB Wireless Connection](adb_wireless.md)
+
+### Linux
+- [Fix laggy firefox videos on Linux with Intel Iris Xe](linux_intel_iris_xe_fix_firefox_laggy_videos.md)
+- [Fix media not loading on Firefox Linux with Intel Iris XE](linux_intel_iris_xe_fix_firefox_media_not_loading.md)
+- [Fix tearing issues on Linux with Intel Iris](linux_intel_iris_xe_fix_tearing.md)
